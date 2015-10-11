@@ -2,27 +2,70 @@
 
 > Notice: this is NOT a final version of Constitution, it is just a draft!
 
-*We, the Citizens of the Free Republic of Liberland, in order to secure Liberty, Life and Property, for ourselves and future generations, do ordain and establish the Constitution of the Free Republic of Liberland, attempting a harmonious consensus for the benefit of all those willing to assume responsibility over the course of their lives. Being aware of a long and shameful list of governments’ trespasses to the Rights of the sovereign Individuals, we hereby declare that the Public Administration governing the Free Republic of Liberland shall first and foremost respect the Bill of Rights and exercise only such functions as have been delegated to it under this Constitution. Therefore, we declare that whenever the Public Administration becomes an obstacle to, rather than a guarantor of, our Rights, it shall be our duty to alter or abolish such government, and to institute a new government for the restoration of the Rights which we consider inherent in all human beings.*
+#Declaration of Independence
+Article I	
+We the founders of the free Republic of LIBERLAND, hereinafter also referred to as the state or the nation, declare that we are a free and sovereign nation and shall not submit, surrender or be restricted in any way by the means of occupation, contractual agreements, force and or internal unrest. We do ordain and establish the constitution of the Free Republic of Liberland. The government and its public administration shall be a guarantor of our rights and servant for all citizens of this great nation
+Article II	
+For the benefit of mankind and the benefit of the State, the United Nations are recognized as we are recognized by them, true to our creed “To Live and Let Live!”
+Article III	
+The organs of the United Nations are recognized.
+Article IV	
+The human rights of the United Nations are recognized.
+Article V	
+The citizens of LIBERLAND declare to be free of prejudice of any kind and recognize the dignity, soul and body of any individual as untouchable.
+Article VI	
+Citizenship of LIBERLAND is a privilege, not a right nor a birthright.
+Article VII	
+Once a citizen of LIBERLAND, always a citizen, applied and decided only by persons of age.
+Article VIII	
+The government of the state is to serve the citizens by proxy only within the constitutional boundaries.
+Article IX	
+A Supreme Court shall determine the validity of any vetoed decision.
+Article X	
+Any citizen of LIBERLAND pledges to submit to a majority vote for the peace and common greater good.
+Article XI	
+Any treaty may never put any obligation on the citizens of our beloved state.
+Article XII	
+The government shall never forcefully tax the income of the citizens of the state.
+Article XIII	
+Common and public services may never be forced upon the citizens.
+Article XIV	
+The state and the believes of its citizens are separated.
+Article XV	
+Citizens of LIBERLAND are free to believe, assemble and speak as they wish as long as the observation of the core values of Liberland are observed.
+Article XVI	
+The government of LIBERLAND shall seek to resolve any and all issues peacefully and diplomatically.
+Article XVII	
+Citizens of LIBERLAND have the right to bear arms to protect their homestead and loved ones upon it.
+Article XVIII	
+This declaration is not to be amended or altered.
 
-## General Provisions
 
-The General Provisions shall constitute the integral part of the Constitution and shall assist in interpreting other Parts thereof as well as establish general rules governing the law of the Free Republic of Liberland.
-
-### Article I
-
-* **§I.1.** The Constitution of the Free Republic of Liberland shall be the supreme law of the Free Republic of Liberland and as such shall be directly enforceable before all Courts of the Free Republic of Liberland; all Acts passed by the Assembly, all international treaties signed by the Cabinet and all forms of delegated powers exercised by the Cabinet shall comply with the Constitution; all contracts between any legal and/or natural Persons, including all branches of the Public Administration, made under the jurisdiction of the Free Republic of Liberland, shall comply with the Constitution.
-* **§I.2.** The Free Republic of Liberland shall be governed by the Public Administration and no concurrent or otherwise form of government shall be established; no special branch of the Public Administration which is not provided for in the Constitution shall come into existence; no municipal or district governing body shall be established; should the Public Administration abandon the Constitution, the Citizens of the Free Republic of Liberland shall have the right and duty to abolish such government.
-* **§I.3.** The Public Administration shall operate on the basis of delegated powers and it shall not possess any inherent authority; powers not conferred upon the Public Administration by this Constitution shall not be exercised by it.
-* **§I.4.** The enumeration of certain rights in this Constitution shall not be construed as to deny or disparage others retained by the Citizens and other Residents of the Free Republic of Liberland; all Rights enumerated in this Constitution shall be exercisable only where no negative rights of others are infringed by force, fraud, of threat thereof, or unbeknownst to them.
-* **§I.5.** All Persons within the jurisdiction of the Free Republic of Liberland shall be bound to observe the Constitution and all laws passed by the Assembly in accordance with this Constitution; no Member or Agent of the Public Administration, or any other entity, shall be excluded from, or granted special privileges under, the operation of any law passed by the Assembly.
-* **§I.6.** All Members and Agents of the Public Administration intentionally acting in breach of the law relevant to the position held or the Constitution shall be criminally liable for their actions and, upon conviction, shall be removed from the office and shall never hold any public office again; acting pursuant to an Act which has been approved as prima facie constitutional by the Supreme Court shall not be deemed as acting unconstitutionally regardless of any future declaration of any Court as to the Act's true constitutionality; introducing, lobbying and voting for a Bill which is declared unconstitutional shall not be deemed as acting unconstitutionally.
-* **§I.7.** All decisions of any branch of the Public Administration and actions undertaken by its Agents and every exercise of delegated power by the Cabinet, excluding verdicts of any Court of the Free Republic of Liberland, shall be subject to challenge in the Civil Court by a Person in whose respect the decision was given or action undertaken, or any other Person who can prove one's interest in that decision; the right shall be exercisable once all administrative appeals have been exhausted; should the decision, action or exercise of delegated power be aimed at no particular Person, any Citizen shall have standing to seek redress in the Civil Court; the right to challenge shall be exercisable within sixty days and, without prejudice to the appeal procedures, such challenge shall be admissible once only.
-* **§I.8.** All Members of the Public Administration shall be of age twenty-one or above and shall hold the citizenship of the Free Republic of Liberland; no such Person shall be prevented from submitting one’s candidacy for a public office; all candidates for any public office in the Free Republic of Liberland as well as all current Members of the Public Administration shall be under obligation to disclose their assets, sources of income and benefaction, both current and of the past five years, to the public; should a candidacy be submitted by some organisation, such organisation shall be under equal obligation of disclosure.
-* **§I.9.** No branch of the Public Administration, nor any number of Citizens or Residents of the Free Republic of Liberland, shall propose and/or consent to the incorporation of the Free Republic of Liberland, or any part thereof, to any other jurisdiction.
-* **§I.10.** All Warrants in the Free Republic of Liberland, other than the Supreme Warrant, shall be issued by a Judge of the Criminal Court upon request by an Agent of the Law Enforcement and shall be supported by evidence of probable cause; such Warrants shall be as detailed as possible and shall refer to one Person only; every Warrant granted for a continuous action shall expire no later than after one year and shall be renewed by another Judge in accordance with ordinary procedure.
-* **§I.11.** All data collected by the Public Administration shall be used only for the direct and necessary purposes for which it was originally collected, and shall be kept confidential and shared only with the express and informed consent of the rightful owner or otherwise in accordance with the provisions of this Constitution; all Individuals whose data is stored by any body of the Public Administration other than the Law Enforcement shall have access to it and shall retain the right to demand its destruction at any time; nothing in this provision shall prevent the Public Administration from maintaining a register of owners of land within the Free Republic of Liberland.
-* **§I.12.** All provisions of this Constitution, as well as all laws, which enumerate the Rights of the Citizens and other Residents of the Free Republic of Liberland shall, in all situations, be interpreted as liberally as possible; all provisions which enumerate Powers of any branch of the Public Administration and their Members and Agents shall, in all situations, be interpreted as strictly as possible. 
-* **§I.13.** For the purposes of this Constitution, the term “Person” shall signify any human being whatsoever; the term “Individual” shall signify a Person of age who does not lack mental capacity and is not incarcerated before, during or after a trial; the term “Agent of the Public Administration” shall signify any Person working for any body of the Public Administration, including the Law Enforcement; the term “Member of the Public Administration” shall signify any Person who is holding a public office of one of the branches of the Public Administration; the term “Agent of the Law Enforcement” shall signify any Person working for, or acting pursuant to a Warrant made public by, the Law Enforcement or the Office of the Public Prosecutor; the term “Citizen” shall signify any Person holding the citizenship of the Free Republic of Liberland; the term “Resident” shall signify any Person within the jurisdiction of the Free Republic of Liberland who is not a Citizen; the term "Law" shall signify any Act passed by the Assembly and all forms of delegated powers as exercised by the Cabinet.
+##General Provisions
+Article I	
+§1	Our core values are Freedom, Peace and Prosperity for all citizens of the Free Republic of Liberland.
+§2	Every citizen has the duty to enforce and defend this constitution within the boundaries of the free Republic of Liberland by peaceful means.
+§3	Every citizen shall have the unrestricted right to defend his life and personal property.
+§4	The Free Republic of Liberland is a free nation and may not be submitted to any outside control contradictory with this constitution.
+Article II	
+§1	The General Provisions shall constitute the integral part of the Constitution and shall assist in interpreting other Parts thereof as well as establish general rules governing the law of the Free Republic of Liberland.
+§2	All acts, laws and regulations shall comply to this document.
+§3	The Free Republic of is governed by a public administration.
+§4	No other form of government shall be established.
+§5	Only the administrative functions in this constitution shall be exercised by government and public administration.
+§6	Necessary regulation of other issues may only be private endeavors, exercised and controlled by the citizens.
+§7	Should the government of the Free Republic of Liberland abandon, or attempt to abandon constitutional values, the citizens shall have the duty and right to abolish such government.
+§8	All persons within the territorial boundaries of the Free Republic of Liberland are to observe all constitutional values and laws.
+§9	The sovereignty of the Free Republic of Liberland, shall never in whole or any part thereof incorporated into any other jurisdiction.
+§10	For the purposes of this Constitution, the term “Person” shall signify any human being.
+§11	For the purposes of this Constitution the term “Individual” shall signify a Person of age and sound mental capacity.
+§12	For the purposes of this Constitution the term “Citizen” shall signify any individual being a registered citizen of our nation.
+§13	For the purposes of this Constitution the following other constitutional Terms are to be used:
+13a)	“Agent of the Public Administration” shall signify any Person working for a body of the Public Administration.
+13b)	“Law Enforcement” shall signify any member of a law enforcement agency, authorized by the government to investigate, punish misdemeanors by ordinance or secure the territory of Liberland. 
+13c)	“Resident” shall signify any person within the jurisdiction of the Free Republic of Liberland who is not a citizen.
+13d)	“Assembly” signifying the governing body, established by vote of the Free Republic of Liberland
+13e)	"Law" shall signify any act passed by the assembly, signed by the president and resulting powers as exercised by the assembly.
 
 
 ## Bill of Rights
